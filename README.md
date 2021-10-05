@@ -1,1 +1,1 @@
-This is my first website build from scratch. The template and prompt is from The Odin Project.
+This is my first website build from scratch. The template and prompt are from The Odin Project.
