@@ -1,0 +1,1 @@
+This is my first website build from scratch. The template and prompt is from The Odin Project.
